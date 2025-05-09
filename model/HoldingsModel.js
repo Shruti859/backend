@@ -8,3 +8,4 @@ const HoldingsModel = mongoose.model("holding", HoldingsSchema); // ✅ Correct 
 // const HoldingsModel = new model("holding", HoldingsSchema);
 
 module.exports = { HoldingsModel };
+

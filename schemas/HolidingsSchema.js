@@ -10,3 +10,4 @@ const HoldingsSchema = new Schema({
 });
 
 module.exports = { HoldingsSchema };
+
